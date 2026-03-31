@@ -1,5 +1,6 @@
 **Description**
-OrbitOS is the ultimate e-com engine for your next drop. No monthly subs, no "starter fees," and no mid layouts. Build your brand, link your Stripe, and launch into Orbit for $0
+
+OrbitOS is the best Teen online store with, No monthly subs, no "starter fees,". Build your brand, link your Stripe, and launch it into Orbit for $0
 
 
 **Palette**
